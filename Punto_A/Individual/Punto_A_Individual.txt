@@ -1,0 +1,11 @@
+/home/vagrant/sysadmin/
+├── Monitoreo
+│   ├── Alertas
+│   ├── Logs
+│   └── Metricas
+└── Servicios
+    ├── Base_de_Datos
+    ├── Cache
+    └── Web
+
+8 directories, 0 files
