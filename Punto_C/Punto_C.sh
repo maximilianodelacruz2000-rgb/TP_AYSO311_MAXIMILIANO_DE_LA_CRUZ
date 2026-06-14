@@ -14,3 +14,7 @@ sudo useradd -m -s /bin/bash -g g_dev -G g_infra u_dev
 echo -n "u_sysadmin" | sha256sum
 echo -n "u_manager" | sha256sum
 echo -n "u_dev" | sha256sum
+
+id u_sysadmin > Punto_C/id_output.txt
+id u_manager >> Punto_C/id_output.txt
+id u_dev >> Punto_C/id_output.txt
