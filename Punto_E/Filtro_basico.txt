@@ -1,0 +1,3 @@
+MemTotal:        2010784 kB
+model name	: AMD Ryzen 5 7520U with Radeon Graphics
+cpu MHz		: 2794.656
